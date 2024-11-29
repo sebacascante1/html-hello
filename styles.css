@@ -1,0 +1,58 @@
+
+body{
+    background-color: lightgray;
+    margin: 0px;
+}
+header{
+    text-align: center;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+header h1{
+
+}
+.secondWrapper{
+    width: 100%;
+    margin-top: 10px;
+    display: inline-block;
+    position: absolute;
+    justify-content: space-around;
+}
+
+
+
+.feed1{
+    background-color: white;
+    margin: 50px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+}
+.feedHead{
+    display: flex;
+    padding: 10px;
+}
+.feedHead h2{
+    width: 90%;
+}
+.feedHead p{
+    text-align: center;
+    width: 10%;
+    padding-top: 5px;
+}
+.footerimg{
+    justify-content: center;
+    margin: 0px;
+    padding: 10px;
+
+}
+.imag{
+    justify-content: center;
+}
+img{
+    width: 100%;
+    height: auto;
+}
